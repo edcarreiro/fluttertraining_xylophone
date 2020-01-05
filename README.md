@@ -1,4 +1,4 @@
-# xylophone
+# Xylophone Sound
 
 A simple Xylophone-Like sound app. For training purposes only.
 
